@@ -1,0 +1,11 @@
+openai-agents
+pydantic
+httpx
+rapidfuzz
+PyMuPDF
+python-magic
+rich
+
+
+
+
